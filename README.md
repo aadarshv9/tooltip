@@ -10,11 +10,11 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will also see any lint errors in the console.<br/>
 
----> Select Option in which direction you want to show tooltip box.
----> Simply hover on the HOVER ME button after selecting.
----> It opens the tooltip box in selected direction.
+---> Select Option in which direction you want to show tooltip box.<br/>
+---> Simply hover on the HOVER ME button after selecting.<br/>
+---> It opens the tooltip box in selected direction.<br/>
 
 ### `npm test`
 
